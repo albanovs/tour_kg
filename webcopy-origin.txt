@@ -1,0 +1,1160 @@
+Uri: https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abrilfatface/v24/zOL64pLDlL1D99S8g8PtiKchm-A.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\abrilfatface\v24\zOL64pLDlL1D99S8g8PtiKchm-A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/404.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\404.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/about.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\about.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/adventure-1.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\adventure-1.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/adventure-2.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\adventure-2.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/adventure-3.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\adventure-3.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/adventure-detail-1.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\adventure-detail-1.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/blog-1.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\blog-1.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/blog-2.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\blog-2.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/blog-details.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\blog-details.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/blog-grid.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\blog-grid.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/cart.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\cart.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/check-out.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\check-out.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/contact.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\contact.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/animate.min.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\animate.min.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/bootstrap.min.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/cssanimation.min.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\cssanimation.min.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/default.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\default.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/meanmenu.min.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\meanmenu.min.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/owl-carousel.min.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\owl-carousel.min.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/range-slider.min.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\range-slider.min.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/responsive.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\responsive.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/css/style.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\css\style.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/css/fontawesome.all.min.css
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\css\fontawesome.all.min.css
+Content Type: text/css
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-duotone-900.eot
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-duotone-900.eot?
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-duotone-900.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-duotone-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-duotone-900.woff
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-duotone-900.woff
+Content Type: application/font-woff
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-duotone-900.woff2
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-light-300.eot
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-light-300.eot?
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-light-300.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-light-300.woff
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-light-300.woff2
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/404.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\404.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/about/1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\about\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/about/2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\about\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/about/2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\about\2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/about/3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\about\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/10.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/11.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/12.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/13.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/14.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\14.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/15.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\15.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/16.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\16.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/17.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\17.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/18.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\18.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/19.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\19.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/20.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\20.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/7.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/8.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/9.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g10.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g11.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g12.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g13.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g7.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g8.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/adventure/g9.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\adventure\g9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/ab-fre.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\ab-fre.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/about-right.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\about-right.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/adventure-1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\adventure-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/adventure-2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\adventure-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/adventure-3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\adventure-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/adventure-d-1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\adventure-d-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/banner-1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/banner-shap.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\banner-shap.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/blog-1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/blog-s-1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\blog-s-1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/blog-s-3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\blog-s-3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/blog2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\blog2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/cart.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\cart.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/copyright-bg.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\copyright-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/footer-shap-1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\footer-shap-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/footer.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\footer.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/footer2-bg.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\footer2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/footer3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\footer3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/funfact-2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\funfact-2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/funfact-3-s.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\funfact-3-s.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/funfact-3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\funfact-3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/funfact-shap.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\funfact-shap.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/funfact.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\funfact.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/subcribe-shap.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\subcribe-shap.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/subscribe.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\subscribe.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/subscribe2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\subscribe2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/subscribe3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\subscribe3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/table-bg.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\table-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/bg/table-shap.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\bg\table-shap.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/10.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/11.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/12.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/7.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/8.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/camp/9.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\camp\9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/favicon.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\favicon.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/10.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\10.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/11.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\11.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/12.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\12.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/13.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\13.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/14.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\14.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/15.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\15.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/16.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\16.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/17.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\17.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/18.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\18.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/4.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\4.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/5.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\5.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/6.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\6.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/7.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\7.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/8.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\8.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/funfact/9.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\funfact\9.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/guide/1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\guide\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/guide/2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\guide\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/guide/3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\guide\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/10.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\10.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/11.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\11.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/12.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\12.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/13.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\13.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/14.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\14.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/15.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\15.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/16.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\16.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/17.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\17.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/18.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\18.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/4.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\4.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/5.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\5.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/6.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\6.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/7.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\7.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/8.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\8.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/9.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\9.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a10.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a10.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a11.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a11.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a4.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a4.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a5.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a5.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a6.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a6.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a7.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a7.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a8.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a8.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/a9.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\a9.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/c1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\c1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/c2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\c2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/c3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\c3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/c4.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\c4.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/e1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\e1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/e2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\e2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/e3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\e3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/i1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\i1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/i2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\i2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/i3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\i3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/n1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\n1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/n2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\n2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/n3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\n3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/t1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\t1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/t2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\t2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/t3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\t3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/icon/t4.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\icon\t4.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/logo-3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\logo-3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/logo.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\logo.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/logo2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\logo2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/logo4.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\logo4.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/1-1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/2-2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/3-3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/4-4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/5-5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/6-6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\6-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/partner/6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\partner\6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/payment/1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\payment\1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/payment/2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\payment\2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/payment/3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\payment\3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/payment/4.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\payment\4.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/payment/p1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\payment\p1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/payment/p2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\payment\p2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/payment/p3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\payment\p3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/7.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/author.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\author.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g7.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g8.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/g9.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\g9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/p1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\p1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/p2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\p2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/p3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\p3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/p4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\p4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s5.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s6.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s7.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/s8.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\s8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/u1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\u1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/u2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\u2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/post/u3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\post\u3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/product/ct1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\product\ct1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/product/ct2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\product\ct2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/product/ct3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\product\ct3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/slider/s1.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\slider\s1.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/slider/s2.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\slider\s2.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/slider/s3.png
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\slider\s3.png
+Content Type: image/png
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/slider/slide-1.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\slider\slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/slider/slide-2.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\slider\slide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/slider/slide-3.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\slider\slide-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/img/slider/slide-4.jpg
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\img\slider\slide-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/index-2.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\index-2.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/index-3.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\index-3.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/index.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\index.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/bootstrap.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/counterup.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/imagesloaded.pkgd.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\imagesloaded.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/isotope.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\isotope.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/main.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/meanmenu.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\meanmenu.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/owlcarousel.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\owlcarousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/popper.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/range-slider.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\range-slider.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/scrollup.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\scrollup.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\vendor\jquery-3.3.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/js/waypoints.min.js
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\js\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/login.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\login.html
+Content Type: text/html
+
+Uri: https://html.xcodexe.com/adventure-gene/gene/signup.html
+File Name: C:\Users\dordo\Desktop\html.xcodexe.com\adventure-gene\gene\signup.html
+Content Type: text/html
+
